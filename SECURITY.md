@@ -6,6 +6,7 @@ project.
   * [Reporting a Bug or Security Vulnerability](#reporting-a-bug-or-security-vulnerability)
   * [Disclosure Policy](#disclosure-policy)
   * [Comments on this Policy](#comments-on-this-policy)
+  * [The Express Threat Model](#the-express-threat-model)
 
 ## Reporting a Bug or Security Vulnerability  
 
@@ -71,3 +72,7 @@ involving the following steps:
 
 If you have suggestions on how this process could be improved please submit a
 pull request.
+
+## The Express Threat Model
+
+The most updated version can be found [here](https://github.com/expressjs/security-wg/blob/main/docs/ThreatModel.md)

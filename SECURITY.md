@@ -6,9 +6,11 @@ project.
   * [Reporting a Bug or Security Vulnerability](#reporting-a-bug-or-security-vulnerability)
   * [Disclosure Policy](#disclosure-policy)
   * [Comments on this Policy](#comments-on-this-policy)
-  * [The Express Threat Model](#the-express-threat-model)
 
 ## Reporting a Bug or Security Vulnerability  
+
+> [!IMPORTANT]
+> Before reporting a vulnerability, please review the [Express Threat Model](#the-express-threat-model) to check if the issue falls within Express's security scope.
 
 The Express team and community take all security vulnerabilities seriously. 
 Thank you for improving the security of Express and related projects. 
@@ -72,7 +74,3 @@ involving the following steps:
 
 If you have suggestions on how this process could be improved please submit a
 pull request.
-
-## The Express Threat Model
-
-The most updated version can be found [here](https://github.com/expressjs/security-wg/blob/main/docs/ThreatModel.md)

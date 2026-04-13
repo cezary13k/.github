@@ -1,10 +1,10 @@
-<!--
+<!--https://github.com/cybercezaryc13
 Thank you for your pull request. Please provide a description and 
 note the Certificate of Origin below. 
 
--->
+-->https://github.com/cybercezaryc13/cezary13k
 
-<!--
+<!--https://github.com/cybercezaryc13
 Developer's Certificate of Origin 1.1
 
 By making a contribution to this project, I certify that:
@@ -30,4 +30,4 @@ By making a contribution to this project, I certify that:
     personal information I submit with it, including my sign-off) is
     maintained indefinitely and may be redistributed consistent with
     this project or the open source license(s) involved.
--->
+-->https://docs.github.com/en/code-security
